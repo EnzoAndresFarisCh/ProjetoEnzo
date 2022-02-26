@@ -1,0 +1,39 @@
+{
+  "name": "projeto",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node your-script.js",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^5.10.1",
+    "@fullcalendar/daygrid": "^5.10.1",
+    "@fullcalendar/rrule": "^5.10.1",
+    "@kugatsu/vuenotification": "^1.1.4",
+    "@mdi/font": "^6.5.95",
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "v": "^0.3.0",
+    "v-mask": "^2.3.0",
+    "v-toaster": "^1.0.3",
+    "vue": "^2.6.11",
+    "vue-notification": "^1.3.20",
+    "vue-router": "^3.2.0",
+    "vue-sweet-calendar": "^0.4.1",
+    "vuetify-mask": "^1.1.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
